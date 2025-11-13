@@ -1,8 +1,8 @@
 const CONFIG = {
     products: {
-        1: 'https://vldmnt.ru/go/stnuxsxkg5',
-        2: 'https://trnsfx.ru/go/sngepkxfe8',
-        3: 'https://trnsfx.ru/go/s35slhhv9y',
-        4: 'https://trnsfx.ru/go/sky7o8aoug'
+        1: 'https://vldmnt.ru/go/scf0dwnsuf',
+        2: 'https://vldmnt.ru/go/s68og7vdwk',
+        3: 'https://vldmnt.ru/go/sb0p3irl2n',
+        4: 'https://vldmnt.ru/go/su61r5myi7'
     }
 };
